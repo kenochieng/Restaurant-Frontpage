@@ -1,0 +1,1 @@
+console.log("My Coding Journey is Fun!");
